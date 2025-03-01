@@ -35,7 +35,7 @@ AI Stock Analysis Agent is a **Streamlit-based web application** that allows use
 - **Python**   
 - **Streamlit** (for UI)  
 - **yfinance** (for stock data)  
-- **Matplotlib / Plotly** (for graphs)  
+- **Matplotlib** (for graphs)  
 
 
  
