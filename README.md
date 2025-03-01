@@ -14,8 +14,8 @@ AI Stock Analysis Agent is a **Streamlit-based web application** that allows use
 ## Installation  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/ai-stock-analysis-agent.git
-   cd ai-stock-analysis-agent
+   git clone https://github.com/yashvi3009/Stock-Agent.git
+   cd Stock-Agent
    ```  
 2. **Install dependencies**  
    ```bash
